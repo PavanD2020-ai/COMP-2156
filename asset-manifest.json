@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/COMP2156/static/css/main.f855e6bc.css",
+    "main.js": "/COMP2156/static/js/main.5bb635e6.js",
+    "static/js/453.f27d8bf6.chunk.js": "/COMP2156/static/js/453.f27d8bf6.chunk.js",
+    "index.html": "/COMP2156/index.html",
+    "main.f855e6bc.css.map": "/COMP2156/static/css/main.f855e6bc.css.map",
+    "main.5bb635e6.js.map": "/COMP2156/static/js/main.5bb635e6.js.map",
+    "453.f27d8bf6.chunk.js.map": "/COMP2156/static/js/453.f27d8bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5bb635e6.js"
+  ]
+}
